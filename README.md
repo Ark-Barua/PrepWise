@@ -128,16 +128,17 @@ App runs locally with API proxy enabled.
 - Submit PR
 
 ## License
-MIT License — free to use and modify.
+![License](https://img.shields.io/badge/License-MIT-green)
 
----
+This project is licensed under the MIT License — free to use, modify, and distribute.
+See the [LICENSE](LICENSE) file for details.
+
 
 ## Author
 
 ### **Ark Barua**
 Full-Stack Developer • AI SaaS Builder • Technical Documentation Enthusiast
 
----
 
 ## Connect With Me
 
@@ -153,7 +154,6 @@ Full-Stack Developer • AI SaaS Builder • Technical Documentation Enthusiast
   </a>
 </p>
 
----
 
 ## Contact
 
@@ -169,7 +169,6 @@ Full-Stack Developer • AI SaaS Builder • Technical Documentation Enthusiast
   </a>
 </p>
 
----
 
 ## Contributors
 
@@ -178,7 +177,6 @@ Full-Stack Developer • AI SaaS Builder • Technical Documentation Enthusiast
   <img src="https://img.shields.io/badge/Open%20to-Contributors-brightgreen" />
 </p>
 
----
 
 ## Sponsors
 
