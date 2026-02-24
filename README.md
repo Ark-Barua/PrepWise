@@ -128,7 +128,7 @@ App runs locally with API proxy enabled.
 - Submit PR
 
 ## License
-![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub License](https://img.shields.io/github/license/Ark-Barua/PrepWise)
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 See the [LICENSE](LICENSE) file for details.
