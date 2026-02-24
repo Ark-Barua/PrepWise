@@ -1,5 +1,4 @@
 > This project is actively under development.
-> Latest stable snapshot: v1.11.0
 
 # PrepWise
 
