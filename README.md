@@ -1,3 +1,6 @@
+> ⚠️ This project is actively under development.
+> Latest stable snapshot: v1.11.0
+
 # PrepWise
 
 PrepWise is a React + Vite study dashboard app with routed pages, a shared layout shell, and authentication gating.
